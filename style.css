@@ -30,6 +30,7 @@ h1{
     margin-bottom: 15px;
     text-align: center;
     text-decoration: double;
+    background-color: black;
 
 }
 
@@ -41,7 +42,9 @@ h2{color: blue;
     margin-top: 24px;
     margin-bottom: 15px;
     text-align: center;
-   
+
+    background-color: black;
+
 
 
 }
