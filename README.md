@@ -1,6 +1,6 @@
 # Portfolio Website
 # Project Description
-Website to show my skills and previous experience
+This is a Website to show my skills and previous work experience. It is my very first IP and is demonstrative of my current skills as a developer
 ## Author
 Paullete Adhiambo
 # Technology used
