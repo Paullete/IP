@@ -67,7 +67,10 @@ h2{color: blue;
 }
 .social-links a{
     text-decoration: none;
-    color: #a3fe87;
+    color: #87c4fe;
     padding-right: 20px;
     font-size: 14px;
+}
+img{
+    float: left;
 }
