@@ -70,3 +70,6 @@ h2{color: blue;
     padding-right: 20px;
     font-size: 14px;
 }
+img{
+    float: left;
+}
