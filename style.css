@@ -76,3 +76,6 @@ h2{color: blue;
 img{
     float: left;
 }
+ul{
+    display:inline
+}
