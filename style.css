@@ -76,6 +76,7 @@ h2{color: blue;
 img{
     float: left;
 }
+
 ul{
-    display:inline
+    style="margin: 0px;padding: 5px;"
 }
